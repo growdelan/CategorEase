@@ -1,4 +1,4 @@
-"""Classification of files into appropriate directories using AI"""
+"""Main runtime file"""
 
 import time
 from functions import utils
